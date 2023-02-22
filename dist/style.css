@@ -1,0 +1,21 @@
+body {
+  background: grey;
+  margin: 0;
+}
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  outline: none;
+  background: url(https://ik.imagekit.io/4tv4vqn6y/Gifs/banksia_lady-800px-15secs.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1677028428158);
+  background-size: contain;
+  background-position: top left;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 20rem;
+  font-weight: bold;
+  font-family: roboto;
+}
